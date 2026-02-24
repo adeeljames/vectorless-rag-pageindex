@@ -1,15 +1,3 @@
-<div align="center">
-  <img src="https://pageindex.ai/static/images/pageindex_banner.jpg" alt="PageIndex Banner" width="100%" />
-
-  # 🤖 Agentic Retrieval RAG System
-  
-  <p>Reasoning-based RAG ◦ No Vector DB ◦ No Chunking ◦ Human-like Retrieval</p>
-
-  [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
-  [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-FF4B4B.svg)](https://streamlit.io/)
-  [![uv](https://img.shields.io/badge/uv-Fastest%20Python%20Manager-purple.svg)](https://github.com/astral-sh/uv)
-</div>
-
 ## 📖 Overview
 
 Welcome to the **Agentic Retrieval RAG System**, an end-to-end, production-ready document Q&A application powered by [PageIndex](https://pageindex.ai/). This project demonstrates a paradigm shift in Retrieval-Augmented Generation (RAG). 
