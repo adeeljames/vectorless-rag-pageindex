@@ -72,8 +72,6 @@ The interface will automatically open in your browser at `http://localhost:8501`
 3. **Chat**: Users submit highly complex, full-document reasoning queries.
 4. **Agentic Retrieval**: The underlying PageIndex model completely skips naive top-K chunking. Instead, it natively reads the unstructured file, locates exact pages implicitly, and streams back perfect, context-aware answers.
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Made With ❤️ By @muhammadadeelai.*
