@@ -76,4 +76,4 @@ The interface will automatically open in your browser at `http://localhost:8501`
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Built to showcase modern AI engineering standards.*
+*Made With ❤️ By @muhammadadeelai.*
